@@ -125,6 +125,7 @@ int main()
             character.insert(a);
             i++;
           }
+          
           huffman_code();
           puts(" ");
           cout<<"Actual message is:\n"<<str<<endl;
